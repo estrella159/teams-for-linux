@@ -7,6 +7,10 @@
 
 * **notifications:** size, position, margin and style options for custom toasts ([#3201](https://github.com/IsmaelMartinez/teams-for-linux/issues/3201)) ([13d9249](https://github.com/IsmaelMartinez/teams-for-linux/commit/13d9249dc39fa7ea896bab71d4a3be0b1303d4ef))
 
+### Thanks
+
+Big thanks to @Trevayne for contributing to this release.
+
 ## [2.31.1](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.31.0...v2.31.1) (2026-11-11)
 
 
